@@ -1,0 +1,2 @@
+Basic banking system where we can transfer money amongst the customers.
+There is a dummy tabel created for customers.
